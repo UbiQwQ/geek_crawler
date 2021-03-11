@@ -18,6 +18,7 @@
 
    ```shell
    # 运行前需安装一个第三方库 requests
+   pip install requests
    python geek_crawler.py
    ```
 
